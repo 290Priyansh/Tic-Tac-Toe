@@ -54,7 +54,7 @@ if(tokken =='O')
     tokken = 'X';}
     else {cout<<"there is no empty space"<<endl;
     conditions();}
-    initials();
+    
  }
 
  bool winning_conditions()
